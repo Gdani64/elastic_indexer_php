@@ -1,0 +1,2 @@
+{ "index" : { "_index" : "test", "_type" : "_doc", "_id" : "3" } }
+{"id_url":"3","url_url":"http:\/\/193.106.31.187\/19443.exe","first_submitted_url":"1332924300","last_submitted_url":"1529460072","idusr_url":"23","count_url":"3","classification_url":"malware","whitelisted_url":"0","idmfm_url":null,"status_url":"new","idcat_url":"1"}
